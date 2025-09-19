@@ -1,8 +1,3 @@
-Got it 👍 You want your **README** description polished and more resume/project-friendly.
-Here’s a refined version of your `README.md` content:
-
----
-
 # Nand2Tetris
 
 Projects from the Coursera course **[From Nand to Tetris: Part I & II](https://www.nand2tetris.org/)**
@@ -35,7 +30,3 @@ Throughout the course, I implemented:
 | 12      | Operating System             |
 
 ---
-
-👉 This version is more professional, shows **what you built**, and connects it to **skills (HDL, CPU design, assembler, compiler, OS)**.
-
-Do you want me to also prepare a **resume-style 2–3 line project description** from this (like we did for your other projects)?
